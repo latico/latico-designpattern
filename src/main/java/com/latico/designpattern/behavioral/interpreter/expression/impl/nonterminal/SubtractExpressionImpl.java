@@ -1,0 +1,42 @@
+package com.latico.designpattern.behavioral.interpreter.expression.impl.nonterminal;
+
+import com.latico.designpattern.behavioral.interpreter.expression.Expression;
+
+import java.util.Map;
+
+/**
+ * <PRE>
+ * 减号表达式
+ * </PRE>
+ *
+ * @Author: LanDingDong
+ * @Date: 2019-01-19 16:21
+ * @Version: 1.0
+ */
+public class SubtractExpressionImpl implements Expression {
+
+    /**
+     * 加号运算法符的左边
+     */
+    private final Expression left;
+    /**
+     * 加号运算符的右边
+     */
+    private final Expression right;
+
+    public SubtractExpressionImpl(Expression left, Expression right) {
+        this.left = left;
+        this.right = right;
+    }
+    @Override
+    public int interpreter(Map<String, Integer> variableKeyValue) {
+        return left.interpreter(variableKeyValue) - right.interpreter(variableKeyValue);
+    }
+
+    @Override
+    public String toString() {
+        final StringBuilder sb = new StringBuilder();
+        sb.append(left).append("[减]").append(right);
+        return sb.toString();
+    }
+}
