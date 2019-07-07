@@ -12,7 +12,7 @@ import com.latico.designpattern.creational.factory.staticfactory.noodles.Noodles
 
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-14 16:53
  * @Version: 1.0
  */

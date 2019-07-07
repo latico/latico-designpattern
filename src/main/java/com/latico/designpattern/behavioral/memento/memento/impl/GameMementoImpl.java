@@ -7,7 +7,7 @@ import com.latico.designpattern.behavioral.memento.memento.GameMemento;
  *
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-19 15:04
  * @Version: 1.0
  */

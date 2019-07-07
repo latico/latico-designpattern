@@ -8,7 +8,7 @@ import com.latico.designpattern.behavioral.strategy.strategy.DiscuoutStrategy;
  *
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-19 18:42
  * @Version: 1.0
  */

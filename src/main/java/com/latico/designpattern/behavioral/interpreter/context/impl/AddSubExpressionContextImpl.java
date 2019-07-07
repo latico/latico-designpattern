@@ -15,7 +15,7 @@ import java.util.Map;
  * 加减表达式简单实现，支持中文和空格，不支持小括号
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-19 16:27
  * @Version: 1.0
  */

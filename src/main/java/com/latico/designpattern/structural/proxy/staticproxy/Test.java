@@ -8,7 +8,7 @@ import com.latico.designpattern.structural.proxy.tickettrader.impl.TicketTraderI
  * 静态代理，每个方法都要复写一边，调用真正的业务执行者
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-17 21:01
  * @Version: 1.0
  */

@@ -18,7 +18,7 @@ import com.latico.designpattern.behavioral.memento.originator.impl.GameOriginato
  * 创建游戏存档，从游戏存档加载数据
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-19 15:02
  * @Version: 1.0
  */

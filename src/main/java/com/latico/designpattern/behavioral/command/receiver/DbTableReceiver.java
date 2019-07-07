@@ -5,7 +5,7 @@ package com.latico.designpattern.behavioral.command.receiver;
  *
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-17 22:35
  * @Version: 1.0
  */

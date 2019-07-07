@@ -5,7 +5,7 @@ package com.latico.designpattern.behavioral.mediator.bean;
  *
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-19 0:34
  * @Version: 1.0
  */

@@ -5,7 +5,7 @@ package com.latico.designpattern.structural.composite.employer;
  *
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-19 0:13
  * @Version: 1.0
  */

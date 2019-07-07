@@ -5,7 +5,7 @@ package com.latico.designpattern.behavioral.strategy.strategy;
  * 打折策略
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-19 18:38
  * @Version: 1.0
  */

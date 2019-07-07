@@ -14,7 +14,7 @@ import com.latico.designpattern.structural.adapter.translator.impl.JapaneseTrans
  * 对于要实现的部分接口，自身没有能力或者不想实现，直接把第三方类对象传进来，通过调用它帮忙实现。
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-14 20:25
  * @Version: 1.0
  */

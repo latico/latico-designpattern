@@ -7,7 +7,7 @@ import com.latico.designpattern.structural.facade.buytea.BuyTea;
  *
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-14 23:51
  * @Version: 1.0
  */

@@ -8,7 +8,7 @@ import com.latico.designpattern.structural.flyweight.ball.Ball;
  * 而享元模式就是共享元素，相当于把相关单例统一管理
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-17 18:36
  * @Version: 1.0
  */

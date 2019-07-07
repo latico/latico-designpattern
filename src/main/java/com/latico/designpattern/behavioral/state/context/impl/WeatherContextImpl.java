@@ -8,7 +8,7 @@ import com.latico.designpattern.behavioral.state.state.WeatherState;
  *
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-19 19:19
  * @Version: 1.0
  */

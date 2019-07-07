@@ -4,7 +4,7 @@ package com.latico.designpattern.structural.adapter.speakskill;
  * <PRE>
  *  说话能力
  * </PRE>
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-14 20:20:02
  * @Version: 1.0
  */

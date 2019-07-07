@@ -7,7 +7,7 @@ import com.latico.designpattern.behavioral.iterator.iterator.ListIterator;
  *
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-18 10:46
  * @Version: 1.0
  */

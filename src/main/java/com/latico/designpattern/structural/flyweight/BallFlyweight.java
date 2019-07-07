@@ -13,7 +13,7 @@ import java.util.concurrent.ConcurrentHashMap;
  * 球享元工厂
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-17 18:33
  * @Version: 1.0
  */

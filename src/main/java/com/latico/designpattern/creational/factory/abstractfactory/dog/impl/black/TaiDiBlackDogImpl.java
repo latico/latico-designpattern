@@ -7,7 +7,7 @@ import com.latico.designpattern.creational.factory.abstractfactory.dog.Dog;
  *
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-14 16:08
  * @Version: 1.0
  */

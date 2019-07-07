@@ -5,7 +5,7 @@ package com.latico.designpattern.behavioral.command.command;
  * 定义执行命令
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-17 22:32
  * @Version: 1.0
  */

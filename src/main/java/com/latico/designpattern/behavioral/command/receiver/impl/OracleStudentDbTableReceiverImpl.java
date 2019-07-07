@@ -8,7 +8,7 @@ import com.latico.designpattern.behavioral.command.receiver.DbTableReceiver;
  *
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-17 23:51
  * @Version: 1.0
  */

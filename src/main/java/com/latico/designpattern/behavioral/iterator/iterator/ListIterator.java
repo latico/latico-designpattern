@@ -5,7 +5,7 @@ package com.latico.designpattern.behavioral.iterator.iterator;
  * 用户只需要得到迭代器就可以遍历，而对于遍历算法则不用去关心
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-18 10:36
  * @Version: 1.0
  */

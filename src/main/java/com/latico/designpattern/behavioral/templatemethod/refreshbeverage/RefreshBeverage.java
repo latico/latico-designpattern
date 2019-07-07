@@ -5,7 +5,7 @@ package com.latico.designpattern.behavioral.templatemethod.refreshbeverage;
  *
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-17 22:09
  * @Version: 1.0
  */

@@ -6,7 +6,7 @@ import com.latico.designpattern.creational.builder.bean.PersonProduct;
  * <PRE>
  *  建造者接口
  * </PRE>
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-14 17:23:57
  * @Version: 1.0
  */

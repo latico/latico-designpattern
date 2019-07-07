@@ -36,7 +36,7 @@ import com.latico.designpattern.creational.factory.factorymethod.message.Message
  由工厂实现类创建产品类的实例。工厂实现类应有一个方法，用来实例化产品类。
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-14 16:53
  * @Version: 1.0
  */

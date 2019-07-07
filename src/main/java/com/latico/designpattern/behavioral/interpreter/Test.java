@@ -11,7 +11,7 @@ import java.util.Map;
  * 示例：支持加减运算的解析器，支持中文作为变量，加减符号为运算符，支持空格
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-19 16:15
  * @Version: 1.0
  */

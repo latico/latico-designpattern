@@ -8,7 +8,7 @@ import com.latico.designpattern.behavioral.mediator.merchant.RentingHouseMerchan
  *
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-19 0:40
  * @Version: 1.0
  */

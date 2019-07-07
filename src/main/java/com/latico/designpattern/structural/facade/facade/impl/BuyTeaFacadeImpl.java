@@ -13,7 +13,7 @@ import com.latico.designpattern.structural.facade.selltea.impl.SellRedTeaImpl;
  *
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-14 23:49
  * @Version: 1.0
  */

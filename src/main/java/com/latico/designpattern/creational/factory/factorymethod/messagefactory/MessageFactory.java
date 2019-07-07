@@ -7,7 +7,7 @@ import com.latico.designpattern.creational.factory.factorymethod.message.Message
  * 接口定义，具体实现不限制
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-14 10:29
  * @Version: 1.0
  */

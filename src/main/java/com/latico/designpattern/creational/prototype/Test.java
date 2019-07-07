@@ -11,7 +11,7 @@ import com.latico.designpattern.creational.prototype.personprototype.PersonProto
  原型模式
  对象克隆，特别对于有大量字段的对象，如果用的下一个对象跟它有部分字段类似，那就可以使用克隆，每个字段逐个set，很累
  * </PRE>
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-19 01:38:03
  * @Version: 1.0
  */

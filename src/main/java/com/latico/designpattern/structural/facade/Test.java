@@ -24,7 +24,7 @@ import com.latico.designpattern.structural.facade.facade.TeaTraderFacade;
 
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-14 23:58
  * @Version: 1.0
  */

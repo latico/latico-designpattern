@@ -8,7 +8,7 @@ package com.latico.designpattern.creational.singleton;
  * 缺点：在类装载的时候就完成实例化，没有达到Lazy Loading的效果。如果从始至终从未使用过这个实例，则会造成内存的浪费。
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-13 23:33:48
  * @Version: 1.0
  */

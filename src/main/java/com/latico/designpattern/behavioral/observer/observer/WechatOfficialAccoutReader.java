@@ -5,7 +5,7 @@ package com.latico.designpattern.behavioral.observer.observer;
  * 实现观察者，同时进行功能增强
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-18 14:57
  * @Version: 1.0
  */

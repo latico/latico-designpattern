@@ -13,7 +13,7 @@ import com.latico.designpattern.creational.factory.abstractfactory.animalfactory
  白色动物系列工厂和黑色动物工厂，是两个产品线。
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-14 16:53
  * @Version: 1.0
  */

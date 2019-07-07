@@ -9,7 +9,7 @@ import com.latico.designpattern.behavioral.visitor.visitor.BillVisitor;
  * 会计师访问者
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-20 0:37
  * @Version: 1.0
  */

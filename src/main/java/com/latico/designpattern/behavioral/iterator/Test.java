@@ -9,7 +9,7 @@ import com.latico.designpattern.behavioral.iterator.queue.impl.BuyTicketQueueImp
  * 跟JDK的List一样
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-18 11:38
  * @Version: 1.0
  */

@@ -19,7 +19,7 @@ import com.latico.designpattern.structural.bridge.imagedisplayer.impl.WindowsIma
  * 基本跟适配器模式相似，区别在于，存在众多差异子类，需要抽象出方法让子类进行实现。
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-14 21:21
  * @Version: 1.0
  */

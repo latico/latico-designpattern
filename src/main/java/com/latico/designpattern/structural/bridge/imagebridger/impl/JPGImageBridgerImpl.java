@@ -7,7 +7,7 @@ import com.latico.designpattern.structural.bridge.imagedisplayer.SystemImageDisp
  * <PRE>
  *  //JPG格式图像：扩充抽象类
  * </PRE>
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-14 21:09:15
  * @Version: 1.0
  */

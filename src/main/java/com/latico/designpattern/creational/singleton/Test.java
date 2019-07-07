@@ -24,7 +24,7 @@ package com.latico.designpattern.creational.singleton;
  饿汉式：直接加载
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-19 1:56
  * @Version: 1.0
  */

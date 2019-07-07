@@ -11,7 +11,7 @@ import java.util.LinkedList;
  * 已使用泛型类{@link DbTableCommandImpl}进行优化，该类弃用
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-17 22:34
  * @Version: 1.0
  */

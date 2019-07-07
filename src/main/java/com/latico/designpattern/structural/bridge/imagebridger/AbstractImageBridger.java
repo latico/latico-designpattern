@@ -6,7 +6,7 @@ import com.latico.designpattern.structural.bridge.imagedisplayer.SystemImageDisp
  * <PRE>
  *  抽象图像类：抽象类
  * </PRE>
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-14 21:05:15
  * @Version: 1.0
  */

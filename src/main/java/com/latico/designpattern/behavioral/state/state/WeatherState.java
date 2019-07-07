@@ -5,7 +5,7 @@ package com.latico.designpattern.behavioral.state.state;
  * 天气状态
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-19 19:11
  * @Version: 1.0
  */

@@ -7,7 +7,7 @@ import com.latico.designpattern.behavioral.mediator.bean.House;
  *
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-19 0:31
  * @Version: 1.0
  */

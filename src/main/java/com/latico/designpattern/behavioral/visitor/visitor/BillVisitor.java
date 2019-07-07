@@ -13,7 +13,7 @@ import com.latico.designpattern.behavioral.visitor.element.impl.IncomBillElement
  * 如果这样则不适合使用访问者模式
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-20 0:31
  * @Version: 1.0
  */

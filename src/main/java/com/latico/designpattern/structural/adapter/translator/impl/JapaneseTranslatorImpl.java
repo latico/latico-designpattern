@@ -7,7 +7,7 @@ import com.latico.designpattern.structural.adapter.translator.Translator;
  * 日语翻译器
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-14 20:21
  * @Version: 1.0
  */

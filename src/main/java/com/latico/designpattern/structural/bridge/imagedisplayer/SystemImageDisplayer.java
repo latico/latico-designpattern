@@ -5,7 +5,7 @@ package com.latico.designpattern.structural.bridge.imagedisplayer;
  * <PRE>
  *  //抽象操作系统实现类：实现类接口
  * </PRE>
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-14 21:04:23
  * @Version: 1.0
  */

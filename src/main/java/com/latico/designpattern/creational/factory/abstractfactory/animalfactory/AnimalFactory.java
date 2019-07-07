@@ -8,7 +8,7 @@ import com.latico.designpattern.creational.factory.abstractfactory.dog.Dog;
  * 工厂接口
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-14 16:05
  * @Version: 1.0
  */

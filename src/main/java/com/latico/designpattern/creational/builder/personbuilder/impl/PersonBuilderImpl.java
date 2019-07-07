@@ -8,7 +8,7 @@ import com.latico.designpattern.creational.builder.personbuilder.PersonBuilder;
  *
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-02-05 16:42
  * @Version: 1.0
  */

@@ -6,7 +6,7 @@ import com.latico.designpattern.creational.prototype.personprototype.PersonProto
  * <PRE>
  *  具体的类
  * </PRE>
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-14 17:52:03
  * @Version: 1.0
  */

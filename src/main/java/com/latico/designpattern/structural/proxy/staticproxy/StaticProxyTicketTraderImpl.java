@@ -7,7 +7,7 @@ import com.latico.designpattern.structural.proxy.tickettrader.TicketTrader;
  *
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-17 20:55
  * @Version: 1.0
  */

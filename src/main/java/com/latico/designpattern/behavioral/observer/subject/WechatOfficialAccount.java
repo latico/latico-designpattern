@@ -7,7 +7,7 @@ import com.latico.designpattern.behavioral.observer.observer.WechatOfficialAccou
  * 微信公众号
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-18 14:09
  * @Version: 1.0
  */

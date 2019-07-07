@@ -12,7 +12,7 @@ import com.latico.designpattern.structural.composite.employer.impl.StaffEmployer
  * 示例中是一个公司的员工上下级归属关系树型结构
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-14 23:28
  * @Version: 1.0
  */

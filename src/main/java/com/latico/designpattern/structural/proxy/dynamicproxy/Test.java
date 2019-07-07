@@ -10,7 +10,7 @@ import java.lang.reflect.Proxy;
  * 动态代理，动态创建一个Class实现指定的接口的所有方法，然后调用里面的方法的时候，所有方法都会走统一的InvocationHandler里面的方法，也可以控制是否调用真正的业务执行的
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-17 21:17
  * @Version: 1.0
  */

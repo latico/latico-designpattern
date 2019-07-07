@@ -8,7 +8,7 @@ import com.latico.designpattern.structural.decorator.personbehavior.PersonBehavi
  * 洗澡行为修饰
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-14 22:40
  * @Version: 1.0
  */

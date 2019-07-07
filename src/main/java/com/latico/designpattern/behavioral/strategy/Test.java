@@ -20,7 +20,7 @@ import com.latico.designpattern.behavioral.strategy.strategy.impl.VipDiscuoutStr
  * VIP用户打6折、老用户8折、新用户9折
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-19 18:32
  * @Version: 1.0
  */

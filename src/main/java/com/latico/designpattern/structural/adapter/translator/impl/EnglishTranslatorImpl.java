@@ -6,7 +6,7 @@ import com.latico.designpattern.structural.adapter.translator.Translator;
  * <PRE>
  * 英语翻译器
  * </PRE>
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-14 20:22:19
  * @Version: 1.0
  */

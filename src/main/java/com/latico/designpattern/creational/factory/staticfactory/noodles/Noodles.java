@@ -4,7 +4,7 @@ package com.latico.designpattern.creational.factory.staticfactory.noodles;
  * <PRE>
  *  
  * </PRE>
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-19 18:03:24
  * @Version: 1.0
  */

@@ -7,7 +7,7 @@ import com.latico.designpattern.structural.flyweight.ball.Ball;
  *
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-17 18:34
  * @Version: 1.0
  */

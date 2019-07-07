@@ -5,7 +5,7 @@ package com.latico.designpattern.behavioral.observer.observer;
  * 微信公众号订阅者，主要是需要接收公众号的推送消息
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-18 14:10
  * @Version: 1.0
  */

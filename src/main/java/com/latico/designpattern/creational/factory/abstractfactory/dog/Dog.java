@@ -5,7 +5,7 @@ package com.latico.designpattern.creational.factory.abstractfactory.dog;
  *
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-14 16:02
  * @Version: 1.0
  */

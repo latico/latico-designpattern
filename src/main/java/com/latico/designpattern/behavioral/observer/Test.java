@@ -14,7 +14,7 @@ import com.latico.designpattern.behavioral.observer.subject.impl.WechatOfficialA
  * apache的文件夹文件监听器，就是使用了观察者模式
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-18 14:32
  * @Version: 1.0
  */

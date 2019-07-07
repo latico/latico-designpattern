@@ -8,7 +8,7 @@ package com.latico.designpattern.creational.singleton;
  * 优点：线程安全、延迟加载、效率较高，比起枚举类型可以通过继承其他类进行扩展。
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-13 23:56
  * @Version: 1.0
  */

@@ -16,7 +16,7 @@ package com.latico.designpattern.creational.singleton;
  缺点：需要创建多一个类，可能存在某些容器不支持静态内部类的风险
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-14 0:56
  * @Version: 1.0
  */

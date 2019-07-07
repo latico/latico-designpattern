@@ -7,7 +7,7 @@ import com.latico.designpattern.structural.bridge.imagedisplayer.SystemImageDisp
  *
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-19 0:07
  * @Version: 1.0
  */

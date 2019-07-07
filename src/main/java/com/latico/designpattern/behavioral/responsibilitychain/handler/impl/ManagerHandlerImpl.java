@@ -9,7 +9,7 @@ import com.latico.designpattern.behavioral.responsibilitychain.request.TimeOffRe
  * 部门经理
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-19 22:50
  * @Version: 1.0
  */

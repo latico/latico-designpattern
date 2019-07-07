@@ -20,7 +20,7 @@ import com.latico.designpattern.behavioral.command.receiver.impl.OracleUserDbTab
  * 命令管理和执行器DbTableInvoker：存储了所有命令实例，统一管理，切换实际的命令，帮忙执行
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-18 0:35
  * @Version: 1.0
  */

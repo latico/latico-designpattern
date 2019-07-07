@@ -9,7 +9,7 @@ package com.latico.designpattern.creational.singleton;
  * 而且枚举不能进行继承，不方便扩展。
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-14 1:19
  * @Version: 1.0
  */

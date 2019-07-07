@@ -16,7 +16,7 @@ import java.util.List;
  * 中介会在中介协调租客和房东进行成交。
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-19 0:59
  * @Version: 1.0
  */

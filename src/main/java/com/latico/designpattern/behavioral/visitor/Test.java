@@ -30,7 +30,7 @@ import com.latico.designpattern.behavioral.visitor.visitor.impl.BossBillVisitorI
  就可以在不修改各个元素类的情况下，对原有功能进行修改。
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-20 0:31
  * @Version: 1.0
  */

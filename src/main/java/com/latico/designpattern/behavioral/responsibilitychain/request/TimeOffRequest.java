@@ -5,7 +5,7 @@ package com.latico.designpattern.behavioral.responsibilitychain.request;
  *
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-19 22:47
  * @Version: 1.0
  */

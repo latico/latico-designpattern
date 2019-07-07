@@ -5,7 +5,7 @@ package com.latico.designpattern.behavioral.command.bean;
  * user表
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-17 23:49
  * @Version: 1.0
  */

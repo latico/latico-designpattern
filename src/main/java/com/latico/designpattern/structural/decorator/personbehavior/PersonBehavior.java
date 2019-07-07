@@ -5,7 +5,7 @@ package com.latico.designpattern.structural.decorator.personbehavior;
  *
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-14 22:31
  * @Version: 1.0
  */

@@ -5,7 +5,7 @@ package com.latico.designpattern.structural.facade.facade;
  * 茶交易外观门面，把所有相关的功能提供统一的对外业务接口
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-14 23:55
  * @Version: 1.0
  */

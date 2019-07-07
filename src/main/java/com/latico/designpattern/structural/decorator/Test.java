@@ -14,7 +14,7 @@ import com.latico.designpattern.structural.decorator.personbehavior.impl.WomanPe
  * 示例中是约会
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-14 22:46
  * @Version: 1.0
  */

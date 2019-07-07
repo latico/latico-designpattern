@@ -7,7 +7,7 @@ import com.latico.designpattern.creational.factory.factorymethod.message.Message
  *
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-14 10:34
  * @Version: 1.0
  */

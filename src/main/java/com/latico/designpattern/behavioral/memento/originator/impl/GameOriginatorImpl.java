@@ -9,7 +9,7 @@ import com.latico.designpattern.behavioral.memento.originator.GameOriginator;
  *
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-19 15:16
  * @Version: 1.0
  */

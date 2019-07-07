@@ -8,7 +8,7 @@ import com.latico.designpattern.behavioral.visitor.visitor.BillVisitor;
  * 账本类，管理账单，访问者通过账本访问账单
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-20 1:30
  * @Version: 1.0
  */

@@ -4,7 +4,7 @@ package com.latico.designpattern.creational.builder.bean;
  * <PRE>
  *  人产品
  * </PRE>
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-14 17:23:13
  * @Version: 1.0
  */

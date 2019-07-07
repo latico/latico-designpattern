@@ -17,7 +17,7 @@ import com.latico.designpattern.behavioral.responsibilitychain.request.TimeOffRe
  * 装饰者只是为了装饰业务，而职责链是为了做某个业务但是不知道谁能做。
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-19 22:42
  * @Version: 1.0
  */

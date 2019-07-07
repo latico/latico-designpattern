@@ -28,7 +28,7 @@ import com.latico.designpattern.behavioral.state.state.impl.SunWeatherStateImpl;
  1、天气自动切换状态，晴天水汽生成到了一定程度会转变成阴天，阴天的水汽聚集到一定程度会下雨，下雨完了就转晴天
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-19 18:56
  * @Version: 1.0
  */

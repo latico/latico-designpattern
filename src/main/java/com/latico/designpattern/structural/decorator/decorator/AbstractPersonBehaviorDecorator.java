@@ -7,7 +7,7 @@ import com.latico.designpattern.structural.decorator.personbehavior.PersonBehavi
  *
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-14 22:37
  * @Version: 1.0
  */

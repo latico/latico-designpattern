@@ -7,7 +7,7 @@ import com.latico.designpattern.structural.composite.employer.AbstractEmployer;
  *
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-14 23:26
  * @Version: 1.0
  */

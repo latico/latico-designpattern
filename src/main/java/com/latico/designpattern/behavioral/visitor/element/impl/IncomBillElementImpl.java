@@ -8,7 +8,7 @@ import com.latico.designpattern.behavioral.visitor.visitor.BillVisitor;
  * 收入账单
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-20 0:34
  * @Version: 1.0
  */

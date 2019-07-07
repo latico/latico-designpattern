@@ -5,7 +5,7 @@ package com.latico.designpattern.structural.proxy.tickettrader;
  * 票交易
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-17 20:51
  * @Version: 1.0
  */

@@ -10,7 +10,7 @@ import java.util.Map;
  * 统一命令管理和命令执行，该对象一般不要多线程操作
  * </PRE>
  *
- * @Author: LanDingDong
+ * @Author: latico
  * @Date: 2019-01-18 0:11
  * @Version: 1.0
  */
