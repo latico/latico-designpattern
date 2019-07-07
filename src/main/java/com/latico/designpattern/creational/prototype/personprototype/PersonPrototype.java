@@ -12,6 +12,7 @@ public abstract class PersonPrototype implements Cloneable {
 
     private String id;
     private String name;
+    private String sex;
     private String country;
     private String city;
     /**
@@ -63,6 +64,7 @@ public abstract class PersonPrototype implements Cloneable {
         final StringBuilder sb = new StringBuilder("PersonPrototype{");
         sb.append("id='").append(id).append('\'');
         sb.append(", name='").append(name).append('\'');
+        sb.append(", sex='").append(sex).append('\'');
         sb.append(", country='").append(country).append('\'');
         sb.append(", city='").append(city).append('\'');
         sb.append('}');
@@ -75,5 +77,13 @@ public abstract class PersonPrototype implements Cloneable {
 
     public void setCity(String city) {
         this.city = city;
+    }
+
+    public String getSex() {
+        return sex;
+    }
+
+    public void setSex(String sex) {
+        this.sex = sex;
     }
 }

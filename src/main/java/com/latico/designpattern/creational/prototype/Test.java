@@ -20,6 +20,7 @@ public class Test {
     public static void main(String[] args) {
         //创建一次PersonPrototype，后面复用，因为每次set很烦，所以直接依靠克隆，复用set方法
         PersonPrototype manPersonPrototype = new ManPersonPrototypeImpl();
+        manPersonPrototype.setSex("男人");
         manPersonPrototype.setCountry("中国");
         manPersonPrototype.setCity("北京");
 
@@ -37,6 +38,7 @@ public class Test {
 
         //创建女人原型
         PersonPrototype womanPersonPrototype = new WomanPersonPrototypeImpl();
+        womanPersonPrototype.setSex("女人");
         womanPersonPrototype.setCountry("中国");
         womanPersonPrototype.setCity("广州");
         //创建小红复用

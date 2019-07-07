@@ -30,17 +30,22 @@ package com.latico.designpattern.creational.singleton;
  */
 public class Test {
     public static void main(String[] args) {
+//        双重检查方式
         System.out.println(DoubleCheck.getInstance().hashCode());
         System.out.println(DoubleCheck.getInstance().hashCode());
 
+//        枚举单例方式
         System.out.println("==============");
         System.out.println(EnumSingleton.getInstance().hashCode());
         System.out.println(EnumSingleton.getInstance().hashCode());
         System.out.println("==============");
 
+//        静态常量方式
         System.out.println(StaticConstant.getInstance().hashCode());
         System.out.println(StaticConstant.getInstance().hashCode());
         System.out.println("==============");
+
+//        静态内部类方式
         System.out.println(StaticInnerClass.getInstance());
         System.out.println(StaticInnerClass.getInstance());
 
