@@ -10,7 +10,7 @@ import com.latico.designpattern.structural.decorator.personbehavior.impl.WomanPe
 /**
  * <PRE>
  * 装饰模式
- * 在不会改变原有对象执行业务方法的情况下，对即将要做的事情修饰增强
+ * 在不会改变原有对象执行业务方法的情况下，对即将要做的事情修饰增强，有点像代理模式
  * 示例中是约会
  * </PRE>
  *

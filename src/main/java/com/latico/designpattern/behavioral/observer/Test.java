@@ -12,6 +12,8 @@ import com.latico.designpattern.behavioral.observer.subject.impl.WechatOfficialA
  * 场景：用户订阅了公众号，当公众号发消息后，所有订阅者会收到并存储到信箱中，订阅者可以从里面读取，
  *
  * apache的文件夹文件监听器，就是使用了观察者模式
+ * JDK的事件监听器
+ * Spring的事件监听器
  * </PRE>
  *
  * @Author: latico

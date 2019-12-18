@@ -15,7 +15,7 @@ package com.latico.designpattern.creational.singleton;
 public class DoubleCheck {
 
     /**
-     * 私有单例对象，需要使用volatile，让其他线程直接可见
+     * 私有单例对象，需要使用volatile，让其他线程直接可见，同时保证不让创建对象的时候虚拟机指令重排序
      */
     private static volatile DoubleCheck instance;
 

@@ -2,7 +2,8 @@ package com.latico.designpattern.creational.singleton;
 
 /**
  * <PRE>
- *     静态内部类[推荐用，但是在某些场景会出现问题，比如opendaylight的容器中不能正确识别到静态内部类导致不可用]
+ *    懒汉式
+ *    静态内部类[推荐用，但是在某些场景会出现问题，比如opendaylight的容器中不能正确识别到静态内部类导致不可用]
  这种方式跟饿汉式方式采用的机制类似，但又有不同。
  两者都是采用了类装载的机制来保证初始化实例时只有一个线程。
  不同的地方在饿汉式方式是只要Singleton类被装载就会实例化，没有Lazy-Loading的作用，
